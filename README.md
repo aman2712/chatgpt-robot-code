@@ -5,3 +5,5 @@ pip install speechrecognition pyaudio pyttsx3 openai python-dotenv playsound gTT
 ```
 
 check all input and output drivers and converse slowly to avoid rate limiting
+
+use gpiozero module for hardware programming using a raspberry pi
